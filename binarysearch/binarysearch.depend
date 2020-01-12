@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522744705 source:d:\alpro6\binarysearch\fungsi.c
+	"header.h"
+
+1522744472 d:\alpro6\binarysearch\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1522744588 source:d:\alpro6\binarysearch\main.c
+	"header.h"
+
+1522744590 source:g:\alpro\alpro6\binarysearch\main.c
+	"header.h"
+
+1522744474 g:\alpro\alpro6\binarysearch\header.h
+	<stdio.h>
+	<stdlib.h>
+
